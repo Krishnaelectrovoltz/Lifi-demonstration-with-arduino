@@ -46,7 +46,7 @@ We welcome contributions from the community. If you have ideas for improvements 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/krishna1000101/Lifi-demonstration-with-arduino/blob/main/MIT%20License).
 
 ## Acknowledgments
 
