@@ -36,7 +36,7 @@ Follow the step-by-step instructions  to set up the LiFi system on your Arduino.
 ## Usage
 
 1. Clone or download this repository.
-2. Follow the setup instructions in the image given
+2. Follow the setup instructions in the image 
 3. Upload the code to your Arduino.
 4. Experiment with LiFi communication!
 
