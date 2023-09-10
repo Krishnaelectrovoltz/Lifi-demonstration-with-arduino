@@ -2,6 +2,8 @@
 "Arduino-based LiFi demo: Transmit data via light using LEDs and photodiodes. Fast, secure, and DIY-friendly. Explore the future of wireless tech!"
 # LiFi Demonstration with Arduino
 
+file:///home/krishna/Pictures/Screenshots/Screenshot%20from%202023-09-10%2014-40-27.png
+
 
 
 ## Overview
