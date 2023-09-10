@@ -48,7 +48,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Special thanks to [Name] for their contribution to this project.
+- Special thanks to TinkerCad for their contribution to help students to simulate without hardware
 - Inspired by the LiFi technology pioneers.
 
 ## Contact
