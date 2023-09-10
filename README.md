@@ -4,7 +4,7 @@
 Lifi work through light intensity 
 When the photodiode senses light it can be counted as 1 and if not it will be counted as zero
 By this we can create binary code through light and photo diodes 
-
+![Image]()
 
 
 ## Overview
