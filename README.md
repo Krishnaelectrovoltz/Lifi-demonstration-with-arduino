@@ -1,7 +1,9 @@
 # Lifi-demonstration-with-arduino
 "Arduino-based LiFi demo: Transmit data via light using LEDs and photodiodes. Fast, secure, and DIY-friendly. Explore the future of wireless tech!"
 
-file:///home/krishna/Pictures/Screenshots/Screenshot%20from%202023-09-10%2014-40-27.png
+Lifi work through light intensity 
+When the photodiode senses light it can be counted as 1 and if not it will be counted as zero
+By this we can create binary code through light and photo diodes 
 
 
 
