@@ -16,7 +16,7 @@ This project showcases how to build a LiFi (Light Fidelity) communication system
 - **Easy Setup**: Utilize common Arduino components and libraries to create a LiFi transmitter and receiver.
 - **Data Modulation**: Learn how to modulate and demodulate data using LEDs and photodiodes for reliable data transmission.
 - **Advantages of LiFi**: Explore the benefits of LiFi, including increased security, minimal interference, and high-speed data transfer.
-- **Educational**: Perfect for learning about LiFi technology, DIY enthusiasts, and those interested in wireless communication advancements.
+- **Educational**: Perfect for learning about LiFi technology, DIY enthusiasts, and those interested in wireless communication advancements. 
 
 ## Getting Started
 
