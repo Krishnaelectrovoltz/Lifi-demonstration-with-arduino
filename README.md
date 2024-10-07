@@ -7,7 +7,7 @@ By this we can create binary code through light and photo diodes
 ![Image](https://github.com/krishna1000101/Lifi-demonstration-with-arduino/blob/main/Screenshot%20from%202023-09-10%2014-40-27.png)
 
 
-## Overview
+## Overview 
 
 This project showcases how to build a LiFi (Light Fidelity) communication system using Arduino. LiFi is a wireless communication technology that uses visible light to transmit data, providing high-speed, secure, and energy-efficient connectivity.
 
